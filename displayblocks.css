@@ -1,0 +1,26 @@
+/*CSS reset settings here - always include at the top of your css*/
+*{        
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+    background-color: #d4d2ae;
+    width: 800px;
+    text-align: center;
+    margin: 0px auto;
+}
+.blue{
+    background-color: #81b3ee;
+}
+section img{
+    border:5px solid black;
+}
+.pink{
+    background-color: #ee676f;
+}
+.blue img{
+    margin: 5px;
+}
+.pink img{
+    margin: 5px;
+}
